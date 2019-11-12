@@ -75,7 +75,7 @@
  <p>这里就可以看到shadowsocks详情了，包括shadowsocks加密方式，shadowsocks端口，shadowsocks密码和shadowsocks IP（有5个节点，域名形式发放）：<br>
  <img style="max-width:100%" src="images/jms-5.png" alt="Just My Socks shadowsocks详情"></p>
  <h2 id="Just My Socks怎么用"><span id="Just_My_Socks-6">六、Just My Socks怎么用</span></h2>
- <p>有了shadowsocks账号后，接下来怎么用？剩下的就只需要配置shadowsocks客户端了，非常方便，详细的教程看这里：<a rel="nofollow" href="https://doubibackup.com/jeptq9ir-2.html" data-original-title="Shadowsocks的小白使用教程">Shadowsocks的小白使用教程</a></p>
+ <p>有了shadowsocks账号后，接下来怎么用？剩下的就只需要配置shadowsocks客户端了，非常方便，详细的教程看这里：<a rel="nofollow" href="https://doubi.us/jeptq9ir-2.html" data-original-title="Shadowsocks的小白使用教程">Shadowsocks的小白使用教程</a></p>
  
 <p><strong>反馈交流：</strong><a href="https://github.com/bannedbook/fanqiang/issues">如果有任何问题，欢迎大家交流！</a></p>
 <p><strong>责任声明：</strong>本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
